@@ -1,0 +1,31 @@
+.hexa{
+    width: 500px;
+    height: 500px;
+    background: #99005e;
+    border-radius: 10px;
+}
+.filho{
+    width: 250px;
+    height: 250px;
+    background: #92ff70;
+    border-radius: 20px;
+}
+.filho p{
+    color: #fff;
+    background: #9e2256;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 800;
+}
+.outra{
+    width: 50%;
+    height: 50vh;
+    background: rgb(5, 1, 7);
+    border-radius: 20px;
+}
+    .filhaD{
+        width: 75vw;
+        height: 50%;
+        background: rgb(54, 12, 133);
+        border-radius: 20px;
+    }
